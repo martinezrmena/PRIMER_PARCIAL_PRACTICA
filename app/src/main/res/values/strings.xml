@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Primer_parcial</string>
+
+    <!-- LABELS -->
+    <string name="MainTitle">.::Encuesta Primer Parcial::.</string>
+    <string name="TitleEncuesta">Encuesta Alimenticia</string>
+    <string name="Nombre">Nombre: </string>
+    <string name="Edad">Edad: </string>
+
+    <!-- BUTTONS-->
+    <string name="btnNuevoEncuestado">NUEVO ENCUESTADO</string>
+    <string name="btnListaEncuestado">LISTA ENCUESTADO</string>
+    <string name="btnListarAlimento">LISTAR ALIMENTOS</string>
+    <string name="btnProcesar">PROCESAR</string>
+
+</resources>
